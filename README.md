@@ -14,3 +14,22 @@
 
 ***my hobbies are***
 
+~~~
+Welcome
+~~~
+
+~~~python
+
+def iseven(num):
+    if num%2==0:
+        return true
+    else
+        return false
+        
+~~~
+
+>This is a message
+
+
+
+
